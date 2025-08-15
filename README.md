@@ -1,9 +1,16 @@
 Juego del amigo secreto
 Alura Latam
 
+Este juego trata de meter nombres de amigos pulsando el botón "añadir" para despues al pulsar el botón "sortear amigo" seleccione uno al azar.
 
+Instalación:
+1. Descargar el archivo haciendo click en el texto en verde "<> Code" y despues hacer click en "Download ZIP"
+<img width="447" height="376" alt="image" src="https://github.com/user-attachments/assets/db813458-e91a-4d9e-a41b-76af1c9f930c" />
 
-Este juego consta de meter nombres de amigos pulsando el botón "añadir" para despues al pulsar el botón "sortear amigo" seleccione uno al azar.
+2. Una vez descargado descomprimimos el archivo .zip
+   
+3. Abrimos el archivo index.html 
+
 
 Funcionalidad:
 
